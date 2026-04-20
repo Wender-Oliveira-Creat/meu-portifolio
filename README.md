@@ -10,6 +10,7 @@
 
 ### 💻 C
 - 🧮 Calculadora de IMC
+- 💰 Cotação em C - https://github.com/Wender-Oliveira-Creat/cotacao-c
 
 ### 🌐 HTML & CSS
 - 📄 Página de login (em desenvolvimento)
