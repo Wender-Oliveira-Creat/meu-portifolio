@@ -41,4 +41,4 @@ Me tornar um desenvolvedor Full Stack completo, com base sólida em lógica de p
 
 ## 📫 Contato
 
-- Email: seuemail@gmail.com
+- Email: gustavowender62@gmail.com
