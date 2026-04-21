@@ -9,7 +9,7 @@
 ## 🚀 Projetos
 
 ### 💻 C
-- 🧮 Calculadora de IMC - https://github.com/Wender-Oliveira-Creat/calculadora-imc-c/edit/main/README.md
+- 🧮 Calculadora de IMC - https://github.com/Wender-Oliveira-Creat/calculadora-imc-c/tree/main
 - 💰 Cotação em C - https://github.com/Wender-Oliveira-Creat/cotacao-c
 
 ### 🌐 HTML & CSS
