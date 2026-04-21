@@ -1,8 +1,6 @@
 # 👋 Fala, eu sou o Wender
 
-💻 Desenvolvedor Full Stack em formação  
-🧠 Foco em lógica de programação  
-🚀 Evoluindo para JavaScript, Node.js e back-end  
+💻 Desenvolvedor Full Stack em formação | Base em lógica de programação | Projetos em C, HTML e CSS | Evoluindo para JavaScript e back-end 
 
 ---
 
