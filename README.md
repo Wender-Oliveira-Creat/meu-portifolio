@@ -14,19 +14,28 @@ Atualmente, estou desenvolvendo minhas habilidades em programação por meio de 
 
 ## Projetos
 
-### Mini ERP — Sistema de Gestão Empresarial
+### Anvellis ERP — Sistema de Gestão de Estoque e Vendas
 
-Sistema em desenvolvimento para auxiliar na organização e no gerenciamento de um pequeno negócio do setor de joias.
+Sistema de gestão desenvolvido em equipe durante o segundo período de Sistemas de Informação, voltado para uma microempresa do setor de joias e acessórios.
 
-**Objetivos do projeto:**
-- Controle de produtos e estoque.
-- Organização das informações do negócio.
-- Acompanhamento das vendas.
-- Visualização de informações relevantes para a gestão.
+O projeto tem como objetivo facilitar o gerenciamento de produtos, estoque e vendas por meio de uma aplicação web integrada a um banco de dados.
 
-**Tecnologias:** Python e banco de dados, com interface em desenvolvimento.
+**Tecnologias:** Python, Flask, SQLite, HTML, CSS e JavaScript.
 
-**Status:** Em desenvolvimento.
+**Principais funcionalidades:**
+- Cadastro e autenticação de usuários.
+- Gerenciamento de produtos e estoque.
+- Controle de vendas e dashboard administrativo.
+- Recuperação de senha por e-mail com tokens temporários.
+- Comunicação entre frontend e backend por meio de API REST.
+
+**Minha contribuição:** desenvolvimento do backend em Python, implementação de validações e regras de negócio, integração com SQLite, criação de endpoints Flask e implementação da recuperação de senha por e-mail.
+
+**Status:** Protótipo funcional — apresentado academicamente.
+
+**Repositório:** [Ver Anvellis no GitHub](https://github.com/Wender-Oliveira-Creat/anvellis-erp)
+
+*Projeto acadêmico desenvolvido em equipe, com créditos e histórico de contribuições preservados no repositório.*
 
 # PREMO — Aplicativo de Monitoramento de Pressão Arterial
 
